@@ -7,3 +7,9 @@ This project focuses on finding pairs of semantically identical questions using 
 
 
 <img width="1245" alt="image" src="https://github.com/Swetha-Neha/ParaChecker-using-DeepLearning/blob/main/AD_4nXeo-Fy883TFTPk180ygDnTGucNEvNdCyFxN0tn2prsCEpG9sOV1xn2qO-tNJQp0Ij9X9PLcNIMeH6EXraApaIwdBYybe14q-obrmwdU3NxYSiY1_8K4ftAP.jpeg?raw=true">
+
+
+
+The comparison results of the GRU and LSTM models using the Siamese Network. The performance of the models is evaluated using Accuracy, Precision, Recall, and F1 score. Based on the quantitative values, LSTM using Word2VEc embedding outperformed GRU using GLoVE embedding across all evaluation metrics. The LSTM model achieved an Accuracy of 83.30%, a precision of 84%, a Recall of 83%, and an F1 score of 83%. On the other hand, GRU with Glove achieved 77.34% accuracy, precision of 78%, recall of 77% and F1 score of 78%. Based on the evaluation metric, the LSTM model is effective in identifying duplicate questions. 
+
+
